@@ -12,7 +12,7 @@ import random
 import re
 
 # Your Google Places API key
-API_KEY = "AIzaSyD9cHRbxFWylqVNy_FgrYJxNloPv7ZuoIg"
+API_KEY "API_key"
 
 # Search keywords
 KEYWORDS = ["Hotel", "Resort", "Hostel", "Bungalow", "Guesthouse", "Villas"]
